@@ -1,0 +1,322 @@
+[
+    {
+        "id": 1,
+        "category": "Hindi",
+        "joke": "पप्पू: क्या तुम्हें पता है, लोग नींद में बातें क्यों करते हैं? गप्पू: क्योंकि जो बातें दिन में सुनने वाला कोई नहीं होता, वो नींद में सुनाते हैं!"
+    },
+    {
+        "id": 2,
+        "category": "English",
+        "joke": "Why don’t scientists trust atoms? Because they make up everything!"
+    },
+    {
+        "id": 3,
+        "category": "Hinglish",
+        "joke": "Teacher: Why are you late? Student: Ma’am, traffic light red thi toh wait karna pada."
+    },
+    {
+        "id": 4,
+        "category": "Hindi",
+        "joke": "शर्मा जी: सुना है तुम्हारे मोहल्ले में कोई डॉक्टर है? वर्मा जी: हाँ, लेकिन वो काम का नहीं है। शर्मा जी: क्यों? वर्मा जी: वो इलाज़ से ज्यादा फीस लेता है!"
+    },
+    {
+        "id": 5,
+        "category": "English",
+        "joke": "Why did the scarecrow win an award? Because he was outstanding in his field!"
+    },
+    {
+        "id": 6,
+        "category": "Hinglish",
+        "joke": "Friend 1: Bhai padhai ho gayi? Friend 2: Nahi yaar, syllabus chhota hai but internet bada hai."
+    },
+    {
+        "id": 7,
+        "category": "Hindi",
+        "joke": "टीचर: स्कूल क्यों नहीं आए? छात्र: मैम, घर में झगड़ा हो गया था। टीचर: तो तुमने बीच-बचाव क्यों नहीं किया? छात्र: मैम, बीच में ही था तो झगड़ा हो गया!"
+    },
+    {
+        "id": 8,
+        "category": "English",
+        "joke": "Why was the math book sad? Because it had too many problems."
+    },
+    {
+        "id": 9,
+        "category": "Hinglish",
+        "joke": "Boy: Will you marry me? Girl: Tum 10 lakh ka iPhone le lo, shaadi apne aap ho jayegi!"
+    },
+    {
+        "id": 10,
+        "category": "Hindi",
+        "joke": "गब्बर: कितना इनकम टैक्स बचा सकते हो? कालिया: सरकार, 100%. गब्बर: कैसे? कालिया: झूठा PAN card बनाकर!"
+    },
+    {
+        "id": 11,
+        "category": "English",
+        "joke": "Why don't skeletons fight each other? They don't have the guts."
+    },
+    {
+        "id": 12,
+        "category": "Hinglish",
+        "joke": "Pappu: Bhai, WhatsApp pe typing kyun dikhata hai? Monty: Taaki hum samajh sake ki doosra bhi likhna seekh raha hai."
+    },
+    {
+        "id": 13,
+        "category": "Hindi",
+        "joke": "राजू: मेरी बीवी मुझसे बहुत प्यार करती है। पिंटू: कैसे? राजू: जब भी मैं कुछ बोलता हूँ, वो कहती है, 'क्या तुम मेरे बिना रह सकते हो?'"
+    },
+    {
+        "id": 14,
+        "category": "English",
+        "joke": "Parallel lines have so much in common. It’s a shame they’ll never meet."
+    },
+    {
+        "id": 15,
+        "category": "Hinglish",
+        "joke": "Ramesh: Koi girlfriend hai? Suresh: Nahi bhai, coding girlfriend se zyada complicated hai."
+    },
+    {
+        "id": 16,
+        "category": "Hindi",
+        "joke": "डॉक्टर: चिंता मत करो, तुम्हें कोई बीमारी नहीं है। मरीज: फिर ये हंसने की आदत क्यों छूट नहीं रही? डॉक्टर: शायद तुम्हें मेरी फीस का अंदाजा नहीं है!"
+    },
+    {
+        "id": 17,
+        "category": "English",
+        "joke": "Why don’t eggs tell jokes? They’d crack each other up."
+    },
+    {
+        "id": 18,
+        "category": "Hinglish",
+        "joke": "Boy: Yaar main apni zindagi se pareshan hoon! Friend: Zara settings me jaake 'restart' kar na."
+    },
+    {
+        "id": 19,
+        "category": "Hindi",
+        "joke": "पति: तुम्हारी मुस्कान क्या कह रही है? पत्नी: मैं सोच रही हूं कि क्या तुम बिना काम के इतने खुश हो सकते हो, तो काम करके कितने खुश रहोगे!"
+    },
+    {
+        "id": 20,
+        "category": "English",
+        "joke": "What do you call fake spaghetti? An impasta."
+    },
+    {
+        "id": 21,
+        "category": "Hinglish",
+        "joke": "Pappu: Aaj maine car ka seatbelt pehna. Monty: Safety ke liye? Pappu: Nahi, taaki mummy soche ki exam ke liye serious hoon."
+    },
+    {
+        "id": 22,
+        "category": "Hindi",
+        "joke": "गब्बर: कितने आदमी थे? सांभा: दो थे सरकार! गब्बर: तो फिर स्कूल बंद क्यों नहीं हुआ?"
+    },
+    {
+        "id": 23,
+        "category": "English",
+        "joke": "Why was the computer cold? Because it left its Windows open!"
+    },
+    {
+        "id": 24,
+        "category": "Hinglish",
+        "joke": "Teacher: Why didn’t you do your homework? Student: Kyunki main 'forget password' option dhundh raha tha!"
+    },
+    {
+        "id": 25,
+        "category": "Hindi",
+        "joke": "पत्नी: आज क्या कर रहे हो? पति: कुछ नहीं, बस तुम्हारे लिए गुलाब के फूल ले रहा था। पत्नी: कितने अच्छे हो तुम! पति: हां, फूलवाले से 'हफ्ता बाद मिलते हैं' बोल दिया!"
+    },
+    {
+        "id": 26,
+        "category": "English",
+        "joke": "Why do cows have hooves instead of feet? Because they lactose."
+    },
+    {
+        "id": 27,
+        "category": "Hinglish",
+        "joke": "Friend 1: Kya kar rahe ho? Friend 2: Sab kuch block kar diya, ab coding chal rahi hai!"
+    },
+    {
+        "id": 28,
+        "category": "Hindi",
+        "joke": "पति: तुम्हें मेरे मजाक पसंद नहीं आते? पत्नी: नहीं, मुझे तुम्हारा हर मजाक बहुत पसंद है, पर मैं हंसती नहीं, क्योंकि वो इतने अच्छे होते हैं!"
+    },
+    {
+        "id": 29,
+        "category": "English",
+        "joke": "Why did the golfer bring two pairs of pants? In case he got a hole in one."
+    },
+    {
+        "id": 30,
+        "category": "Hinglish",
+        "joke": "Pappu: Bhai, sab dost engineer ban gaye, tu ab kya banega? Monty: Bhai, main toh ab MBA ka wait kar raha hoon, taaki mazak pura ho sake!"
+    },
+    {
+        "id": 31,
+        "category": "Hindi",
+        "joke": "टीचर: तुम्हारी लिखाई इतनी खराब क्यों है? छात्र: मैम, डॉक्टर बनना है, इसलिए प्रैक्टिस कर रहा हूँ!"
+    },
+    {
+        "id": 32,
+        "category": "English",
+        "joke": "What do you call an alligator in a vest? An investigator."
+    },
+    {
+        "id": 33,
+        "category": "Hinglish",
+        "joke": "Monty: Aaj meri tabiyat theek nahi hai. Pappu: Matlab? Monty: Matlab, WhatsApp pe online nahi aaya!"
+    },
+    {
+        "id": 34,
+        "category": "Hindi",
+        "joke": "पति: आजकल मेरा मन काम में नहीं लगता। पत्नी: अब तुम घर में ही रहो। पति: क्यों? पत्नी: ताकि घर का मन तुम्हारे काम में लगे!"
+    },
+    {
+        "id": 35,
+        "category": "English",
+        "joke": "Why can’t you trust stairs? Because they’re always up to something."
+    },
+    {
+        "id": 36,
+        "category": "Hinglish",
+        "joke": "Teacher: What’s the formula of water? Student: H2O + H2O = H4O2! Teacher: Science chhodo, poetry likho!"
+    },
+    {
+        "id": 37,
+        "category": "Hindi",
+        "joke": "पत्नी: तुम बहुत गलतफहमी में हो कि मैं तुम्हें पसंद करती हूं। पति: मैं जानता हूं, इसलिए तो कभी-कभी घर देर से आता हूं!"
+    },
+    {
+        "id": 38,
+        "category": "English",
+        "joke": "Why did the bicycle fall over? Because it was two-tired."
+    },
+    {
+        "id": 39,
+        "category": "Hinglish",
+        "joke": "Boy: I’m on a diet! Girl: Matlab tum sirf photo dekh kar khaoge?"
+    },
+    {
+        "id": 40,
+        "category": "Hindi",
+        "joke": "टीचर: तुम्हारा नाम क्या है? छात्र: जो भी हो, आप मेरी क्लास में पहला सवाल पूछने वाले नहीं हैं!"
+    },
+    {
+        "id": 41,
+        "category": "English",
+        "joke": "What do you call cheese that isn’t yours? Nacho cheese!"
+    },
+    {
+        "id": 42,
+        "category": "Hinglish",
+        "joke": "Teacher: Tumhari notes kahan hai? Student: Notes bana raha tha, par mobile ki battery khatam ho gayi."
+    },
+    {
+        "id": 43,
+        "category": "Hindi",
+        "joke": "पति: तुम मेरी जिंदगी हो। पत्नी: तभी तो तुम्हारी जिंदगी रोज नई डिमांड करती रहती है!"
+    },
+    {
+        "id": 44,
+        "category": "English",
+        "joke": "How do you organize a space party? You planet."
+    },
+    {
+        "id": 45,
+        "category": "Hinglish",
+        "joke": "Pappu: Dost, tu itna handsome kaise hai? Monty: Bhai, koi scheme chal rahi hai kya?"
+    },
+    {
+        "id": 46,
+        "category": "Hindi",
+        "joke": "टीचर: तुम स्कूल क्यों नहीं आए? छात्र: मैडम, मैंने सोचा कि आज तो छुट्टी कर ही लेते हैं!"
+    },
+    {
+        "id": 47,
+        "category": "English",
+        "joke": "What did one ocean say to the other ocean? Nothing, they just waved."
+    },
+    {
+        "id": 48,
+        "category": "Hinglish",
+        "joke": "Ramesh: Kal exam hai, tayyari kaisi chal rahi hai? Suresh: Arre bas calculator ke buttons thode dheere chal rahe hain!"
+    },
+    {
+        "id": 49,
+        "category": "Hindi",
+        "joke": "पति: मुझे साइलेंट ट्रीटमेंट देना बंद करो। पत्नी: मैंने ऐसा सोचा ही नहीं था!"
+    },
+    {
+        "id": 50,
+        "category": "English",
+        "joke": "Why was the math book sad? Because it had too many problems."
+    },
+    {
+        "id": 51,
+        "category": "Hinglish",
+        "joke": "Friend 1: Tu kaha tha? Friend 2: Bro, ghar par data recharge karne gaya tha!"
+    },
+    {
+        "id": 52,
+        "category": "Hindi",
+        "joke": "पति: मेरे बिना तुम्हारा क्या होता? पत्नी: एक आरामदायक जिंदगी!"
+    },
+    {
+        "id": 53,
+        "category": "English",
+        "joke": "What do you call fake spaghetti? An impasta."
+    },
+    {
+        "id": 54,
+        "category": "Hinglish",
+        "joke": "Boy: Tu ghanta sunta hai kya? Girl: Nahi, main phone pe khamoshi sunti hoon."
+    },
+    {
+        "id": 55,
+        "category": "Hindi",
+        "joke": "शिक्षक: तुमने अपना होमवर्क क्यों नहीं किया? छात्र: मैडम, मेरा 'गूगल असिस्टेंट' काम नहीं कर रहा था!"
+    },
+    {
+        "id": 56,
+        "category": "English",
+        "joke": "How does a scientist freshen his breath? With experi-mints."
+    },
+    {
+        "id": 57,
+        "category": "Hinglish",
+        "joke": "Pappu: Mera net slow ho raha hai. Monty: Matlab tu ab seedha insaan ban raha hai."
+    },
+    {
+        "id": 58,
+        "category": "Hindi",
+        "joke": "पत्नी: तुम्हें मुझसे प्यार है? पति: हां, बिल्कुल। पत्नी: फिर तुम क्यों मेरे साथ डिनर के बाद बोलते हो, 'खाना ठीक था'?"
+    },
+    {
+        "id": 59,
+        "category": "English",
+        "joke": "What did the fisherman say to the magician? Pick a cod, any cod."
+    },
+    {
+        "id": 60,
+        "category": "Hinglish",
+        "joke": "Boy: Tum mujhe block kyun karti ho? Girl: Kyunki WhatsApp pe 'safe distance' option nahi hai."
+    },
+    {
+        "id": 61,
+        "category": "Hindi",
+        "joke": "टीचर: क्यों नहीं पढ़ रहे हो? छात्र: मैडम, अगर हम ज्यादा पढ़ लेंगे तो आपको पढ़ाने का मौका कौन देगा?"
+    },
+    {
+        "id": 62,
+        "category": "English",
+        "joke": "Why did the picture go to jail? Because it was framed."
+    },
+    {
+        "id": 63,
+        "category": "Hinglish",
+        "joke": "Teacher: Tumne apna homework kyun nahi kiya? Student: Kyunki Sunday ko homework chhutti par tha."
+    },
+    {
+        "id": 64,
+        "category": "Hindi",
+        "joke": "पति: तुम्हें मुझसे ज्यादा क्या चाहिए? पत्नी: एक क्रेडिट कार्ड!"
+    }
+]
